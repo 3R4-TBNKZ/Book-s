@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
+  <a href="https://github.com/3R4-TBNKZ/Book-s">
+    <img src="https://github.com/3R4-TBNKZ/Book-s/blob/main/static/image/preview-banner-v1.png" alt="Master">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
+  <a href="https://github.com/3R4-TBNKZ/Book-s/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
   <a href="LICENSE.md">
@@ -56,26 +56,14 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 
 All **suggestions/PR** are welcome!
 
-### Code Contributors
+### Create
 
-This project exists thanks to all the people who contribute.
+<a href="https://github.com/3R4-TBNKZ/Book-s"><img src="https://avatars.githubusercontent.com/u/199518260?v=4"></a>
 
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
-
-### Financial Contributors
-
-<p align="left">
-  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
-    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a>
-  </a>
-  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
-    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a>
-  </a>
-</p>
 
 ## :newspaper: &nbsp;RSS Feed & Updates
 
-GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.
+GitHub exposes an [RSS/Atom](https://github.com/3R4-TBNKZ/Book-s/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.
 
 ## :ballot_box_with_check: &nbsp;ToDo
 
@@ -269,7 +257,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
 &nbsp;&nbsp; <a href="https://github.com/square/certstrap"><b>certstrap</b></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
 &nbsp;&nbsp; <a href="https://github.com/yassineaboukir/sublert"><b>Sublert</b></a> - is a security and reconnaissance tool to automatically monitor new subdomains.<br>
-&nbsp;&nbsp; <a href="https://github.com/trimstray/mkchain"><b>mkchain</b></a> - open source tool to help you build a valid SSL certificate chain.<br>
+&nbsp;&nbsp; <a href="https://github.com/trimstrimstray/mkchain"><b>mkchain</b></a> - open source tool to help you build a valid SSL certificate chain.<br>
 &nbsp;&nbsp; <a href="https://github.com/Matty9191/ssl-cert-check"><b>ssl-cert-check</b></a> - SSL Certification Expiration Checker.<br>
 </p>
 
@@ -3045,7 +3033,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ___
 
-##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other)
+##### Tool: [system-other](https://github.com/3R4-TBNKZ/Book-s#tool-system-other)
 
 ###### Reboot system from init
 
@@ -3951,7 +3939,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ___
 
-##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other)
+##### Tool: [network-other](https://github.com/3R4-TBNKZ/Book-s#tool-network-other)
 
 ###### Get all subnets for specific AS (Autonomous system)
 
