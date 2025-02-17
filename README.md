@@ -59,7 +59,7 @@ All **suggestions/PR** are welcome!
 ### 💙 Credits
 
 <p>
-  <img data-component="Avatar" class="prc-Avatar-Avatar-ZRS-m" alt="" width="32" height="32" src="https://avatars.githubusercontent.com/u/199518260?v=4&amp;size=64" data-testid="github-avatar" style="--avatarSize-regular: 32px;">
+  <img src="https://avatars.githubusercontent.com/u/199518260?s=96&amp;v=4" alt="@3R4-TBNKZ" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3">
 </p>
 
 ## :newspaper: &nbsp;RSS Feed & Updates
