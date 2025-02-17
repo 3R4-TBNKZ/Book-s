@@ -58,11 +58,7 @@ All **suggestions/PR** are welcome!
 
 ### 💙 Credits
 
-<a href="https://github.com/3R4-TBNKZ" class="md-autor" title="@3R4-TBNKZ rel="noopener" target="_blank">
-  <img alt="3R4-TBNKZ" src="https://avatars.githubusercontent.com/u/199518260?v=4&size=64" decoding="async" loading="lazy">
-</a>
-
-
+<a href="https://github.com/3R4-TBNKZ" title="@3R4-TBNKZ rel="noopener" target="_blank"><img alt="3R4-TBNKZ" src="https://avatars.githubusercontent.com/u/199518260?v=4&size=64" decoding="async" loading="lazy"></a>
 
 ## :newspaper: &nbsp;RSS Feed & Updates
 
