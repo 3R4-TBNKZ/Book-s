@@ -59,7 +59,9 @@ All **suggestions/PR** are welcome!
 ### 💙 Credits
 
 <p>
-  <img src="https://avatars.githubusercontent.com/u/199518260?u=b19a3022691abf969f8d7754780eba051e9bc20c&v=4" alt="@3R4-TBNKZ" size="48" height="48" width="48">
+  <a href="https://github.com/3R4-TBNKZ>
+    <img src="https://avatars.githubusercontent.com/u/199518260?u=b19a3022691abf969f8d7754780eba051e9bc20c&v=4" alt="@3R4-TBNKZ" size="48" height="48" width="48">
+  </a>
 </p>
 
 ## :newspaper: &nbsp;RSS Feed & Updates
