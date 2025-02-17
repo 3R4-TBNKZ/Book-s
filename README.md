@@ -58,7 +58,7 @@ All **suggestions/PR** are welcome!
 
 ### Create
 
-<a href="https://github.com/3R4-TBNKZ/Book-s"><img src="https://avatars.githubusercontent.com/u/199518260?u=c6af708e7635cc84078545feacb922be187eb2b7&v=4&size=64"></a>
+<a href="https://github.com/3R4-TBNKZ/Book-s" target="_blank"><img src="https://avatars.githubusercontent.com/u/199518260?v=4&size=64" alt="3R4-TBNKZ"></a>
 
 
 ## :newspaper: &nbsp;RSS Feed & Updates
