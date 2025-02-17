@@ -58,8 +58,8 @@ All **suggestions/PR** are welcome!
 
 ### 💙 Credits
 
-<a href="https://github.com/3R4-TBNKZ/Book-s" target="_blank"><img src="https://avatars.githubusercontent.com/u/199518260?v=4&size=64" alt="3R4-TBNKZ"></a>
-
+<a href="https://github.com/3R4-TBNKZ" target="_blank"><img src="https://avatars.githubusercontent.com/u/199518260?v=4&size=64" alt="3R4-TBNKZ"></a>
+<a href="https://github.com/GOD-TBnkz" target="_blank"><img src="https://avatars.githubusercontent.com/u/166649326?v=4&size=64" alt="TBNKZ"></a>
 
 ## :newspaper: &nbsp;RSS Feed & Updates
 
