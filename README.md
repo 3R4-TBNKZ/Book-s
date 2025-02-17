@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/3R4-TBNKZ/Book-s/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="Pull Requests">
   </a>
   <a href="LICENSE.md">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="MIT License">
   </a>
 </p>
 
