@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="RELEASE.md">
-    <img src="https://img.shields.io/badge/RELEASE-Book's-lightgreen" alt="Release">
+    <img src="https://img.shields.io/badge/RELEASE-Book's-lightgreen?style=for-the-badge" alt="Release">
   </a>
   <a href="https://github.com/3R4-TBNKZ/Book-s/pulls">
     <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="Pull Requests">
