@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/3R4-TBNKZ/Book-s">
-    <img src="https://github.com/3R4-TBNKZ/Book-s/blob/main/static/image/preview-banner-v1.png" alt="Master">
+    <img src="https://github.com/3R4-TBNKZ/Book-s/blob/main/static/image/preview-banner-v1.png" alt="3R4">
   </a>
 </p>
 
